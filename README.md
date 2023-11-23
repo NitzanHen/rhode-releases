@@ -1,4 +1,4 @@
-<img src="splash.png" align="center" alt="rhode logo" /><br/>
+<img src="splash.gif" align="center" alt="rhode logo" /><br/>
 
 Rhode is a knowledge-building tool for mathematicians; that is, it helps you collect the mathematical knowledge you come across (the definitions, corollories, examples etc.) into an organized structure that you can draw insights from.  
 It's intuitive to pick up and convenient to use, whether you're just starting out your journey into mathematics or have years of research under your belt.
