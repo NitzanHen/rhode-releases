@@ -8,7 +8,7 @@ It's intuitive to pick up and convenient to use, whether you're just starting ou
 
 ## Installation
 Rhode is currently only distributed on Windows.
-To install, download and run the installer from the [latest release page](https://github.com/NitzanHen/bigmath/releases/latest).
+To install, download and run the installer from the [latest release page](https://github.com/NitzanHen/rhode-releases/releases/latest).
 
 > [!IMPORTANT]
 > The Rhode installer and app are not code signed yet - this means that Windows pops a scary warning when attempting to install or run it for the first time.  
