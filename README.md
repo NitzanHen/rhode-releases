@@ -1,10 +1,14 @@
-<img src="splash.gif" align="center" alt="rhode logo" width="100%" /><br/>
+<p align="center">
+  <img src="icon.png" align="center" width="150px" alt="Agrippa logo" />
+  <h1 display="inline" align="center"><strong>Rhode</strong></h1>
+</p>
 
-Rhode is a knowledge-building tool for mathematicians; that is, it helps you collect the mathematical knowledge you come across (the definitions, corollories, examples etc.) into an organized structure that you can draw insights from.  
+Rhode is a knowledge-building tool for mathematicians; that is, it helps you collect the mathematical knowledge you come across (the definitions, corollories, examples etc.) into an organized structure that you can draw insights from.
+
 It's intuitive to pick up and convenient to use, whether you're just starting out your journey into mathematics or have years of research under your belt.
 
 > [!WARNING]
-> This project is still in early stages of development.
+> This project is still in development.
 
 ## Installation
 Rhode is currently only distributed on Windows.
